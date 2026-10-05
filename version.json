@@ -1,10 +1,10 @@
 {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "minVersion": "1.0.1",
     "forceUpdate": false,
     "active": true,
-    "killMessage": "Phiên bản hiện tại đã ngừng hỗ trợ. Vui lòng cập nhật lên 1.0.2 để tiếp tục sử dụng.",
+    "killMessage": "Phiên bản hiện tại đã ngừng hỗ trợ. Vui lòng cập nhật lên 1.0.3 để tiếp tục sử dụng.",
     "changelog": "- Fix lỗi khó nhìn trên windows 10\n",
-    "download_url": "https://github.com/theka48/Fill/releases/download/Fai_v1.0.2/Fai.exe",
-    "sha256": "bbd722903e90246303dbd646d65ebbf442df6e128a0d943bbd2b56dc34414939"
+    "download_url": "https://github.com/theka48/Fill/releases/download/Fai_v1.0.3/Fai.exe",
+    "sha256": "bf07f023a708640c169f8b5ec3a1954b325e1def980fa29457c98b727c37276f"
 }
