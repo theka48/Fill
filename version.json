@@ -5,6 +5,6 @@
     "active": true,
     "killMessage": "Phiên bản hiện tại đã ngừng hỗ trợ. Vui lòng cập nhật lên 1.0.1 để tiếp tục sử dụng.",
     "changelog": "- Releases\n",
-    "download_url": "https://github.com/theka48/Fill/releases/download/Fai_v1.0.0/Fai.exe",
-    "sha256": "f8610d78d6a66a7ab31a97672d30c6b0803288749f5c12e945fd0af00a0498cc"
+    "download_url": "https://github.com/theka48/Fill/releases/download/Fai_v1.0.1/Fai.exe",
+    "sha256": "b2f61c06df05489d25b68a4c6a421796503715635493719508cded2c9c3dede3"
 }
